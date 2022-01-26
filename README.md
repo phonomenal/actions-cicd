@@ -1,5 +1,7 @@
 # Chapter 04_01
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/6f4a1d65-2741-4c8a-825d-4891cd601d30.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/actions-cicd?orgId=650162616495)  
+
 - Create a repository on GitHub using the [New Repository](https://github.com/new) page.  Name it something that relates to the lesson like `exercise-files`.
 
 - In a terminal, run the following commands to initialize the directory as a git repository.
